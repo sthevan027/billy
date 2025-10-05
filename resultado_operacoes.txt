@@ -9,27 +9,27 @@ OPERAÇÃO 001 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
    Repagamento Total Acumulado: 0.011000
 
 [LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.527200
-   Novo Borrow Min:     0.399812
-   Novo Borrow Max Seguro: 0.659000
+   Novo Borrow Final: 557.440000
+   Novo Borrow Min:   418.084412
+   Novo Borrow Max Seguro: 696.800000
 
 [REESCALONAMENTO]:
    Tentativas:               1
    Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
 
 [RESULTADOS] FINANCEIROS:
-   Supply Total:      1.409703
-   aTokens Livres:    0.634803
-   Divida Total:      0.616200
-   Lucro Operacao:   0.195469
-   Reinvestimento:   0.309704
-   Lucro Total:      0.195469
+   Supply Total:   1344.457384
+   aTokens Livres:  629.542707
+   Divida Total:    557.529000
+   Lucro Operacao: 222.960589
+   Reinvestimento: 334.457383
+   Lucro Total:    222.960589
 
 [STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.195469
+   Saldo Extra Acumulado: 222.960589
    Operações sem Progresso:     0
    Total Estagnadas:           0
-   Saúde da Posição:         1.69
+   Saúde da Posição:         1.78
    Saldo Wallet Restante: 0.000000
 ================================================================================
 
@@ -37,33 +37,33 @@ OPERAÇÃO 001 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 OPERAÇÃO 002 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 ================================================================================
 [PARAMETROS] OPERACAO:
-   Repagamento:     0.067782 (11.00% da divida)
-   Taxa Plataforma:  0.000169 (0.25% do repagamento)
-   Total Taxas Pagas: 0.000197
-   Repagamento Total Acumulado: 0.078782
+   Repagamento:    61.328190 (11.00% da divida)
+   Taxa Plataforma:  0.153320 (0.25% do repagamento)
+   Total Taxas Pagas: 0.153348
+   Repagamento Total Acumulado: 61.339190
 
 [LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.393095
-   Novo Borrow Min:     0.322003
-   Novo Borrow Max Seguro: 0.491369
+   Novo Borrow Final: 419.191521
+   Novo Borrow Min:   246.484668
+   Novo Borrow Max Seguro: 523.989401
 
 [REESCALONAMENTO]:
    Tentativas:               1
    Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
 
 [RESULTADOS] FINANCEIROS:
-   Supply Total:      1.800259
-   aTokens Livres:    0.686996
-   Divida Total:      0.941513
-   Lucro Operacao:   0.062276
-   Reinvestimento:   0.195086
-   Lucro Total:      0.257745
+   Supply Total:   1710.501977
+   aTokens Livres:  636.087717
+   Divida Total:    915.392331
+   Lucro Operacao: 153.297816
+   Reinvestimento: 143.084004
+   Lucro Total:    376.258405
 
 [STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.062276
+   Saldo Extra Acumulado: 153.297816
    Operações sem Progresso:     0
    Total Estagnadas:           0
-   Saúde da Posição:         1.41
+   Saúde da Posição:         1.38
    Saldo Wallet Restante: 0.000000
 ================================================================================
 
@@ -71,33 +71,33 @@ OPERAÇÃO 002 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 OPERAÇÃO 003 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 ================================================================================
 [PARAMETROS] OPERACAO:
-   Repagamento:     0.103566 (11.00% da divida)
-   Taxa Plataforma:  0.000259 (0.25% do repagamento)
-   Total Taxas Pagas: 0.000456
-   Repagamento Total Acumulado: 0.182348
+   Repagamento:   100.693156 (11.00% da divida)
+   Taxa Plataforma:  0.251733 (0.25% do repagamento)
+   Total Taxas Pagas: 0.405081
+   Repagamento Total Acumulado: 162.032346
 
 [LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.247712
-   Novo Borrow Max Seguro: 0.343635
+   Novo Borrow Final: 296.503621
+   Novo Borrow Min:   154.881818
+   Novo Borrow Max Seguro: 370.629526
 
 [REESCALONAMENTO]:
-   Tentativas:               6
+   Tentativas:               1
    Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
 
 [RESULTADOS] FINANCEIROS:
-   Supply Total:      1.862534
-   aTokens Livres:    0.819670
-   Divida Total:      0.837947
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.257745
+   Supply Total:   1902.911539
+   aTokens Livres:  633.366995
+   Divida Total:   1111.202795
+   Lucro Operacao:  55.753829
+   Reinvestimento:  39.111746
+   Lucro Total:    432.012234
 
 [STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
+   Saldo Extra Acumulado: 55.753829
    Operações sem Progresso:     0
    Total Estagnadas:           0
-   Saúde da Posição:         1.64
+   Saúde da Posição:         1.27
    Saldo Wallet Restante: 0.000000
 ================================================================================
 
@@ -105,33 +105,33 @@ OPERAÇÃO 003 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 OPERAÇÃO 004 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 ================================================================================
 [PARAMETROS] OPERACAO:
-   Repagamento:     0.092174 (11.00% da divida)
-   Taxa Plataforma:  0.000230 (0.25% do repagamento)
-   Total Taxas Pagas: 0.000686
-   Repagamento Total Acumulado: 0.274523
+   Repagamento:   122.232307 (11.00% da divida)
+   Taxa Plataforma:  0.305581 (0.25% do repagamento)
+   Total Taxas Pagas: 0.710662
+   Repagamento Total Acumulado: 284.264654
 
 [LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.357762
-   Novo Borrow Min:     0.305284
-   Novo Borrow Max Seguro: 0.447202
+   Novo Borrow Final: 122.537898
+   Novo Borrow Min:   146.085573
+   Novo Borrow Max Seguro: 240.276309
 
 [REESCALONAMENTO]:
-   Tentativas:               1
+   Tentativas:               6
    Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
 
 [RESULTADOS] FINANCEIROS:
-   Supply Total:      2.021748
-   aTokens Livres:    0.734571
-   Divida Total:      1.103534
-   Lucro Operacao:   0.013969
-   Reinvestimento:   0.159214
-   Lucro Total:      0.271713
+   Supply Total:   1958.665370
+   aTokens Livres:  677.725587
+   Divida Total:   1111.508386
+   Lucro Operacao:   0.000008
+   Reinvestimento:   0.000002
+   Lucro Total:    432.012242
 
 [STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.013969
+   Saldo Extra Acumulado: 0.000008
    Operações sem Progresso:     0
    Total Estagnadas:           0
-   Saúde da Posição:         1.36
+   Saúde da Posição:         1.30
    Saldo Wallet Restante: 0.000000
 ================================================================================
 
@@ -139,33 +139,33 @@ OPERAÇÃO 004 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 OPERAÇÃO 005 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 ================================================================================
 [PARAMETROS] OPERACAO:
-   Repagamento:     0.121389 (11.00% da divida)
-   Taxa Plataforma:  0.000303 (0.25% do repagamento)
-   Total Taxas Pagas: 0.000990
-   Repagamento Total Acumulado: 0.395911
+   Repagamento:   122.265922 (11.00% da divida)
+   Taxa Plataforma:  0.305665 (0.25% do repagamento)
+   Total Taxas Pagas: 1.016326
+   Repagamento Total Acumulado: 406.530576
 
 [LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.229344
-   Novo Borrow Max Seguro: 0.301111
+   Novo Borrow Final: 122.571597
+   Novo Borrow Min:   146.051416
+   Novo Borrow Max Seguro: 239.970725
 
 [REESCALONAMENTO]:
    Tentativas:               6
    Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
 
 [RESULTADOS] FINANCEIROS:
-   Supply Total:      2.035717
-   aTokens Livres:    0.842857
-   Divida Total:      0.982145
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.271713
+   Supply Total:   1958.665380
+   aTokens Livres:  677.481055
+   Divida Total:   1111.814061
+   Lucro Operacao:   0.000008
+   Reinvestimento:   0.000002
+   Lucro Total:    432.012250
 
 [STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     0
-   Total Estagnadas:           0
-   Saúde da Posição:         1.53
+   Saldo Extra Acumulado: 0.000008
+   Operações sem Progresso:     1
+   Total Estagnadas:           1
+   Saúde da Posição:         1.30
    Saldo Wallet Restante: 0.000000
 ================================================================================
 
@@ -173,33 +173,33 @@ OPERAÇÃO 005 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 OPERAÇÃO 006 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 ================================================================================
 [PARAMETROS] OPERACAO:
-   Repagamento:     0.108036 (11.00% da divida)
-   Taxa Plataforma:  0.000270 (0.25% do repagamento)
-   Total Taxas Pagas: 0.001260
-   Repagamento Total Acumulado: 0.503947
+   Repagamento:   122.299547 (11.00% da divida)
+   Taxa Plataforma:  0.305749 (0.25% do repagamento)
+   Total Taxas Pagas: 1.322075
+   Repagamento Total Acumulado: 528.830123
 
 [LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.296823
-   Novo Borrow Max Seguro: 0.422499
+   Novo Borrow Final: 122.605306
+   Novo Borrow Min:   146.017249
+   Novo Borrow Max Seguro: 239.665057
 
 [REESCALONAMENTO]:
    Tentativas:               6
    Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
 
 [RESULTADOS] FINANCEIROS:
-   Supply Total:      2.035717
-   aTokens Livres:    0.929286
-   Divida Total:      0.874109
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.271713
+   Supply Total:   1958.665390
+   aTokens Livres:  677.236456
+   Divida Total:   1112.119820
+   Lucro Operacao:   0.000008
+   Reinvestimento:   0.000002
+   Lucro Total:    432.012258
 
 [STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     1
-   Total Estagnadas:           1
-   Saúde da Posição:         1.72
+   Saldo Extra Acumulado: 0.000008
+   Operações sem Progresso:     2
+   Total Estagnadas:           2
+   Saúde da Posição:         1.30
    Saldo Wallet Restante: 0.000000
 ================================================================================
 
@@ -207,33 +207,33 @@ OPERAÇÃO 006 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 OPERAÇÃO 007 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 ================================================================================
 [PARAMETROS] OPERACAO:
-   Repagamento:     0.096152 (11.00% da divida)
-   Taxa Plataforma:  0.000240 (0.25% do repagamento)
-   Total Taxas Pagas: 0.001500
-   Repagamento Total Acumulado: 0.600099
+   Repagamento:   122.333180 (11.00% da divida)
+   Taxa Plataforma:  0.305833 (0.25% do repagamento)
+   Total Taxas Pagas: 1.627908
+   Repagamento Total Acumulado: 651.163303
 
 [LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.424428
-   Novo Borrow Min:     0.356879
-   Novo Borrow Max Seguro: 0.530535
+   Novo Borrow Final: 122.639023
+   Novo Borrow Min:   145.983072
+   Novo Borrow Max Seguro: 239.359305
 
 [REESCALONAMENTO]:
-   Tentativas:               1
+   Tentativas:               6
    Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
 
 [RESULTADOS] FINANCEIROS:
-   Supply Total:      2.232539
-   aTokens Livres:    0.824122
-   Divida Total:      1.202386
-   Lucro Operacao:   0.035062
-   Reinvestimento:   0.196822
-   Lucro Total:      0.306775
+   Supply Total:   1958.665400
+   aTokens Livres:  676.991790
+   Divida Total:   1112.425663
+   Lucro Operacao:   0.000008
+   Reinvestimento:   0.000002
+   Lucro Total:    432.012266
 
 [STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.035062
-   Operações sem Progresso:     0
-   Total Estagnadas:           1
-   Saúde da Posição:         1.37
+   Saldo Extra Acumulado: 0.000008
+   Operações sem Progresso:     3
+   Total Estagnadas:           3
+   Saúde da Posição:         1.30
    Saldo Wallet Restante: 0.000000
 ================================================================================
 
@@ -241,33 +241,33 @@ OPERAÇÃO 007 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 OPERAÇÃO 008 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 ================================================================================
 [PARAMETROS] OPERACAO:
-   Repagamento:     0.132262 (11.00% da divida)
-   Taxa Plataforma:  0.000331 (0.25% do repagamento)
-   Total Taxas Pagas: 0.001831
-   Repagamento Total Acumulado: 0.732362
+   Repagamento:    77.869796 (7.00% da divida)
+   Taxa Plataforma:  0.194674 (0.25% do repagamento)
+   Total Taxas Pagas: 1.822583
+   Repagamento Total Acumulado: 729.033100
 
 [LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.270394
-   Novo Borrow Max Seguro: 0.362259
+   Novo Borrow Final: 191.242775
+   Novo Borrow Min:    94.163372
+   Novo Borrow Max Seguro: 239.053469
 
 [REESCALONAMENTO]:
-   Tentativas:               6
+   Tentativas:               1
    Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
 
 [RESULTADOS] FINANCEIROS:
-   Supply Total:      2.267601
-   aTokens Livres:    0.957982
-   Divida Total:      1.070123
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.306775
+   Supply Total:   1969.983239
+   aTokens Livres:  595.347678
+   Divida Total:   1225.798641
+   Lucro Operacao:  23.990677
+   Reinvestimento:  11.317830
+   Lucro Total:    456.002944
 
 [STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
+   Saldo Extra Acumulado: 23.990677
    Operações sem Progresso:     0
-   Total Estagnadas:           1
-   Saúde da Posição:         1.57
+   Total Estagnadas:           3
+   Saúde da Posição:         1.19
    Saldo Wallet Restante: 0.000000
 ================================================================================
 
@@ -275,33 +275,33 @@ OPERAÇÃO 008 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 OPERAÇÃO 009 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 ================================================================================
 [PARAMETROS] OPERACAO:
-   Repagamento:     0.117714 (11.00% da divida)
-   Taxa Plataforma:  0.000294 (0.25% do repagamento)
-   Total Taxas Pagas: 0.002125
-   Repagamento Total Acumulado: 0.850075
+   Repagamento:   134.837851 (11.00% da divida)
+   Taxa Plataforma:  0.337095 (0.25% do repagamento)
+   Total Taxas Pagas: 2.159677
+   Repagamento Total Acumulado: 863.870950
 
 [LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.343917
-   Novo Borrow Max Seguro: 0.494521
+   Novo Borrow Final: 135.174955
+   Novo Borrow Min:   138.148629
+   Novo Borrow Max Seguro: 150.043361
 
 [REESCALONAMENTO]:
    Tentativas:               6
    Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
 
 [RESULTADOS] FINANCEIROS:
-   Supply Total:      2.267601
-   aTokens Livres:    1.052153
-   Divida Total:      0.952410
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.306775
+   Supply Total:   1993.973918
+   aTokens Livres:  614.270537
+   Divida Total:   1226.135746
+   Lucro Operacao:   0.000008
+   Reinvestimento:   0.000002
+   Lucro Total:    456.002952
 
 [STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     1
-   Total Estagnadas:           2
-   Saúde da Posição:         1.76
+   Saldo Extra Acumulado: 0.000008
+   Operações sem Progresso:     0
+   Total Estagnadas:           3
+   Saúde da Posição:         1.20
    Saldo Wallet Restante: 0.000000
 ================================================================================
 
@@ -309,33 +309,33 @@ OPERAÇÃO 009 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 OPERAÇÃO 010 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 ================================================================================
 [PARAMETROS] OPERACAO:
-   Repagamento:     0.104765 (11.00% da divida)
-   Taxa Plataforma:  0.000262 (0.25% do repagamento)
-   Total Taxas Pagas: 0.002387
-   Repagamento Total Acumulado: 0.954840
+   Repagamento:   134.874932 (11.00% da divida)
+   Taxa Plataforma:  0.337187 (0.25% do repagamento)
+   Total Taxas Pagas: 2.496865
+   Repagamento Total Acumulado: 998.745882
 
 [LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.489788
-   Novo Borrow Min:     0.409353
-   Novo Borrow Max Seguro: 0.612235
+   Novo Borrow Final: 135.212129
+   Novo Borrow Min:   138.110949
+   Novo Borrow Max Seguro: 149.706263
 
 [REESCALONAMENTO]:
-   Tentativas:               1
+   Tentativas:               6
    Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
 
 [RESULTADOS] FINANCEIROS:
-   Supply Total:      2.498457
-   aTokens Livres:    0.928820
-   Divida Total:      1.337433
-   Lucro Operacao:   0.049139
-   Reinvestimento:   0.230857
-   Lucro Total:      0.355915
+   Supply Total:   1993.973928
+   aTokens Livres:  614.000788
+   Divida Total:   1226.472943
+   Lucro Operacao:   0.000008
+   Reinvestimento:   0.000002
+   Lucro Total:    456.002960
 
 [STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.049139
-   Operações sem Progresso:     0
-   Total Estagnadas:           2
-   Saúde da Posição:         1.38
+   Saldo Extra Acumulado: 0.000008
+   Operações sem Progresso:     1
+   Total Estagnadas:           4
+   Saúde da Posição:         1.20
    Saldo Wallet Restante: 0.000000
 ================================================================================
 
@@ -343,33 +343,33 @@ OPERAÇÃO 010 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 OPERAÇÃO 011 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 ================================================================================
 [PARAMETROS] OPERACAO:
-   Repagamento:     0.147118 (11.00% da divida)
-   Taxa Plataforma:  0.000368 (0.25% do repagamento)
-   Total Taxas Pagas: 0.002755
-   Repagamento Total Acumulado: 1.101958
+   Repagamento:   134.912024 (11.00% da divida)
+   Taxa Plataforma:  0.337280 (0.25% do repagamento)
+   Total Taxas Pagas: 2.834145
+   Repagamento Total Acumulado: 1133.657906
 
 [LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.311241
-   Novo Borrow Max Seguro: 0.420409
+   Novo Borrow Final: 135.249314
+   Novo Borrow Min:   138.073259
+   Novo Borrow Max Seguro: 149.369072
 
 [REESCALONAMENTO]:
    Tentativas:               6
    Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
 
 [RESULTADOS] FINANCEIROS:
-   Supply Total:      2.547597
-   aTokens Livres:    1.085825
-   Divida Total:      1.190315
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.355915
+   Supply Total:   1993.973938
+   aTokens Livres:  613.730964
+   Divida Total:   1226.810233
+   Lucro Operacao:   0.000008
+   Reinvestimento:   0.000002
+   Lucro Total:    456.002968
 
 [STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     0
-   Total Estagnadas:           2
-   Saúde da Posição:         1.58
+   Saldo Extra Acumulado: 0.000008
+   Operações sem Progresso:     2
+   Total Estagnadas:           5
+   Saúde da Posição:         1.20
    Saldo Wallet Restante: 0.000000
 ================================================================================
 
@@ -377,33 +377,33 @@ OPERAÇÃO 011 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 OPERAÇÃO 012 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 ================================================================================
 [PARAMETROS] OPERACAO:
-   Repagamento:     0.130935 (11.00% da divida)
-   Taxa Plataforma:  0.000327 (0.25% do repagamento)
-   Total Taxas Pagas: 0.003082
-   Repagamento Total Acumulado: 1.232893
+   Repagamento:   134.949126 (11.00% da divida)
+   Taxa Plataforma:  0.337373 (0.25% do repagamento)
+   Total Taxas Pagas: 3.171518
+   Repagamento Total Acumulado: 1268.607032
 
 [LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.393022
-   Novo Borrow Max Seguro: 0.567527
+   Novo Borrow Final: 135.286508
+   Novo Borrow Min:   138.035558
+   Novo Borrow Max Seguro: 149.031789
 
 [REESCALONAMENTO]:
    Tentativas:               6
    Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
 
 [RESULTADOS] FINANCEIROS:
-   Supply Total:      2.547597
-   aTokens Livres:    1.190573
-   Divida Total:      1.059380
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.355915
+   Supply Total:   1993.973948
+   aTokens Livres:  613.461065
+   Divida Total:   1227.147616
+   Lucro Operacao:   0.000008
+   Reinvestimento:   0.000002
+   Lucro Total:    456.002976
 
 [STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     1
-   Total Estagnadas:           3
-   Saúde da Posição:         1.78
+   Saldo Extra Acumulado: 0.000008
+   Operações sem Progresso:     3
+   Total Estagnadas:           6
+   Saúde da Posição:         1.20
    Saldo Wallet Restante: 0.000000
 ================================================================================
 
@@ -411,33 +411,33 @@ OPERAÇÃO 012 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 OPERAÇÃO 013 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 ================================================================================
 [PARAMETROS] OPERACAO:
-   Repagamento:     0.116532 (11.00% da divida)
-   Taxa Plataforma:  0.000291 (0.25% do repagamento)
-   Total Taxas Pagas: 0.003374
-   Repagamento Total Acumulado: 1.349424
+   Repagamento:    85.900333 (7.00% da divida)
+   Taxa Plataforma:  0.214751 (0.25% do repagamento)
+   Total Taxas Pagas: 3.386268
+   Repagamento Total Acumulado: 1354.507365
 
 [LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.558769
-   Novo Borrow Min:     0.465807
-   Novo Borrow Max Seguro: 0.698461
+   Novo Borrow Final:  86.115094
+   Novo Borrow Min:    92.373018
+   Novo Borrow Max Seguro: 148.694413
 
 [REESCALONAMENTO]:
-   Tentativas:               1
+   Tentativas:               6
    Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
 
 [RESULTADOS] FINANCEIROS:
-   Supply Total:      2.812764
-   aTokens Livres:    1.048917
-   Divida Total:      1.501618
-   Lucro Operacao:   0.060247
-   Reinvestimento:   0.265168
-   Lucro Total:      0.416161
+   Supply Total:   1993.973957
+   aTokens Livres:  613.289264
+   Divida Total:   1227.362377
+   Lucro Operacao:   0.000009
+   Reinvestimento:   0.000001
+   Lucro Total:    456.002985
 
 [STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.060247
-   Operações sem Progresso:     0
-   Total Estagnadas:           3
-   Saúde da Posição:         1.39
+   Saldo Extra Acumulado: 0.000009
+   Operações sem Progresso:     4
+   Total Estagnadas:           7
+   Saúde da Posição:         1.20
    Saldo Wallet Restante: 0.000000
 ================================================================================
 
@@ -445,33 +445,33 @@ OPERAÇÃO 013 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 OPERAÇÃO 014 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 ================================================================================
 [PARAMETROS] OPERACAO:
-   Repagamento:     0.165178 (11.00% da divida)
-   Taxa Plataforma:  0.000413 (0.25% do repagamento)
-   Total Taxas Pagas: 0.003787
-   Repagamento Total Acumulado: 1.514602
+   Repagamento:    85.915366 (7.00% da divida)
+   Taxa Plataforma:  0.214788 (0.25% do repagamento)
+   Total Taxas Pagas: 3.601057
+   Repagamento Total Acumulado: 1440.422731
 
 [LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.354693
-   Novo Borrow Max Seguro: 0.480760
+   Novo Borrow Final:  86.130165
+   Novo Borrow Min:    92.365106
+   Novo Borrow Max Seguro: 148.479659
 
 [REESCALONAMENTO]:
    Tentativas:               6
    Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
 
 [RESULTADOS] FINANCEIROS:
-   Supply Total:      2.873011
-   aTokens Livres:    1.229257
-   Divida Total:      1.336440
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.416161
+   Supply Total:   1993.973967
+   aTokens Livres:  613.117433
+   Divida Total:   1227.577176
+   Lucro Operacao:   0.000009
+   Reinvestimento:   0.000001
+   Lucro Total:    456.002994
 
 [STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     0
-   Total Estagnadas:           3
-   Saúde da Posição:         1.59
+   Saldo Extra Acumulado: 0.000009
+   Operações sem Progresso:     5
+   Total Estagnadas:           8
+   Saúde da Posição:         1.20
    Saldo Wallet Restante: 0.000000
 ================================================================================
 
@@ -479,33 +479,33 @@ OPERAÇÃO 014 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 OPERAÇÃO 015 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 ================================================================================
 [PARAMETROS] OPERACAO:
-   Repagamento:     0.147008 (11.00% da divida)
-   Taxa Plataforma:  0.000368 (0.25% do repagamento)
-   Total Taxas Pagas: 0.004154
-   Repagamento Total Acumulado: 1.661611
+   Repagamento:    85.930402 (7.00% da divida)
+   Taxa Plataforma:  0.214826 (0.25% do repagamento)
+   Total Taxas Pagas: 3.815883
+   Repagamento Total Acumulado: 1526.353134
 
 [LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.516750
-   Novo Borrow Min:     0.446514
-   Novo Borrow Max Seguro: 0.645938
+   Novo Borrow Final:  86.145238
+   Novo Borrow Min:    92.357193
+   Novo Borrow Max Seguro: 148.264868
 
 [REESCALONAMENTO]:
-   Tentativas:               1
+   Tentativas:               6
    Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
 
 [RESULTADOS] FINANCEIROS:
-   Supply Total:      3.094636
-   aTokens Livres:    1.110763
-   Divida Total:      1.706182
-   Lucro Operacao:   0.000741
-   Reinvestimento:   0.221625
-   Lucro Total:      0.416903
+   Supply Total:   1993.973977
+   aTokens Livres:  612.945572
+   Divida Total:   1227.792012
+   Lucro Operacao:   0.000009
+   Reinvestimento:   0.000001
+   Lucro Total:    456.003003
 
 [STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000741
-   Operações sem Progresso:     0
-   Total Estagnadas:           3
-   Saúde da Posição:         1.34
+   Saldo Extra Acumulado: 0.000009
+   Operações sem Progresso:     6
+   Total Estagnadas:           9
+   Saúde da Posição:         1.20
    Saldo Wallet Restante: 0.000000
 ================================================================================
 
@@ -513,1189 +513,33 @@ OPERAÇÃO 015 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 OPERAÇÃO 016 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 ================================================================================
 [PARAMETROS] OPERACAO:
-   Repagamento:     0.187680 (11.00% da divida)
-   Taxa Plataforma:  0.000469 (0.25% do repagamento)
-   Total Taxas Pagas: 0.004623
-   Repagamento Total Acumulado: 1.849291
+   Repagamento:    42.972720 (3.50% da divida)
+   Taxa Plataforma:  0.107432 (0.25% do repagamento)
+   Total Taxas Pagas: 3.923315
+   Repagamento Total Acumulado: 1569.325854
 
 [LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.333038
-   Novo Borrow Max Seguro: 0.429628
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      3.095377
-   aTokens Livres:    1.261500
-   Divida Total:      1.518502
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.416903
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     0
-   Total Estagnadas:           3
-   Saúde da Posição:         1.51
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 017 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.167035 (11.00% da divida)
-   Taxa Plataforma:  0.000418 (0.25% do repagamento)
-   Total Taxas Pagas: 0.005041
-   Repagamento Total Acumulado: 2.016326
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.437367
-   Novo Borrow Max Seguro: 0.617308
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      3.095377
-   aTokens Livres:    1.395128
-   Divida Total:      1.351466
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.416903
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     1
-   Total Estagnadas:           4
-   Saúde da Posição:         1.69
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 018 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.148661 (11.00% da divida)
-   Taxa Plataforma:  0.000372 (0.25% do repagamento)
-   Total Taxas Pagas: 0.005412
-   Repagamento Total Acumulado: 2.164987
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.627475
-   Novo Borrow Min:     0.530220
-   Novo Borrow Max Seguro: 0.784344
+   Novo Borrow Final: 182.247199
+   Novo Borrow Min:    52.316596
+   Novo Borrow Max Seguro: 227.808998
 
 [REESCALONAMENTO]:
    Tentativas:               1
    Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
 
 [RESULTADOS] FINANCEIROS:
-   Supply Total:      3.382442
-   aTokens Livres:    1.241730
-   Divida Total:      1.830280
-   Lucro Operacao:   0.042715
-   Reinvestimento:   0.287065
-   Lucro Total:      0.459618
+   Supply Total:   2000.932338
+   aTokens Livres:  507.092679
+   Divida Total:   1367.066490
+   Lucro Operacao:  89.235974
+   Reinvestimento:   6.958352
+   Lucro Total:    545.238976
 
 [STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.042715
-   Operações sem Progresso:     0
-   Total Estagnadas:           4
-   Saúde da Posição:         1.37
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 019 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.201331 (11.00% da divida)
-   Taxa Plataforma:  0.000503 (0.25% do repagamento)
-   Total Taxas Pagas: 0.005916
-   Repagamento Total Acumulado: 2.366318
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.400582
-   Novo Borrow Max Seguro: 0.533079
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      3.425158
-   aTokens Livres:    1.436967
-   Divida Total:      1.628949
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.459618
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     0
-   Total Estagnadas:           4
-   Saúde da Posição:         1.56
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 020 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.179184 (11.00% da divida)
-   Taxa Plataforma:  0.000448 (0.25% do repagamento)
-   Total Taxas Pagas: 0.006364
-   Repagamento Total Acumulado: 2.545503
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.512500
-   Novo Borrow Max Seguro: 0.734410
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      3.425158
-   aTokens Livres:    1.580314
-   Divida Total:      1.449765
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.459618
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     1
-   Total Estagnadas:           5
-   Saúde da Posição:         1.75
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 021 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.159474 (11.00% da divida)
-   Taxa Plataforma:  0.000399 (0.25% do repagamento)
-   Total Taxas Pagas: 0.006762
-   Repagamento Total Acumulado: 2.704977
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.730875
-   Novo Borrow Min:     0.612106
-   Novo Borrow Max Seguro: 0.913594
-
-[REESCALONAMENTO]:
-   Tentativas:               1
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      3.767759
-   aTokens Livres:    1.397275
-   Divida Total:      2.021166
-   Lucro Operacao:   0.068927
-   Reinvestimento:   0.342601
-   Lucro Total:      0.528545
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.068927
-   Operações sem Progresso:     0
-   Total Estagnadas:           5
-   Saúde da Posição:         1.38
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 022 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.222328 (11.00% da divida)
-   Taxa Plataforma:  0.000556 (0.25% do repagamento)
-   Total Taxas Pagas: 0.007318
-   Repagamento Total Acumulado: 2.927305
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.464843
-   Novo Borrow Max Seguro: 0.626147
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      3.836686
-   aTokens Livres:    1.630279
-   Divida Total:      1.798838
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.528545
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     0
-   Total Estagnadas:           5
-   Saúde da Posição:         1.58
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 023 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.197872 (11.00% da divida)
-   Taxa Plataforma:  0.000495 (0.25% do repagamento)
-   Total Taxas Pagas: 0.007813
-   Repagamento Total Acumulado: 3.125177
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.588433
-   Novo Borrow Max Seguro: 0.848476
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      3.836686
-   aTokens Livres:    1.788576
-   Divida Total:      1.600965
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.528545
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     1
-   Total Estagnadas:           6
-   Saúde da Posição:         1.77
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 024 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.176106 (11.00% da divida)
-   Taxa Plataforma:  0.000440 (0.25% do repagamento)
-   Total Taxas Pagas: 0.008253
-   Repagamento Total Acumulado: 3.301283
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.837078
-   Novo Borrow Min:     0.698428
-   Novo Borrow Max Seguro: 1.046348
-
-[REESCALONAMENTO]:
-   Tentativas:               1
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      4.233005
-   aTokens Livres:    1.576854
-   Divida Total:      2.261937
-   Lucro Operacao:   0.088106
-   Reinvestimento:   0.396319
-   Lucro Total:      0.616651
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.088106
-   Operações sem Progresso:     0
-   Total Estagnadas:           6
-   Saúde da Posição:         1.38
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 025 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.248813 (11.00% da divida)
-   Taxa Plataforma:  0.000622 (0.25% do repagamento)
-   Total Taxas Pagas: 0.008875
-   Repagamento Total Acumulado: 3.550096
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.531553
-   Novo Borrow Max Seguro: 0.719629
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      4.321111
-   aTokens Livres:    1.846390
-   Divida Total:      2.013124
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.616651
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     0
-   Total Estagnadas:           6
-   Saúde da Posição:         1.59
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 026 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.221444 (11.00% da divida)
-   Taxa Plataforma:  0.000554 (0.25% do repagamento)
-   Total Taxas Pagas: 0.009429
-   Repagamento Total Acumulado: 3.771540
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.669865
-   Novo Borrow Max Seguro: 0.968442
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      4.321111
-   aTokens Livres:    2.023545
-   Divida Total:      1.791681
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.616651
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     1
-   Total Estagnadas:           7
-   Saúde da Posição:         1.78
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 027 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.197085 (11.00% da divida)
-   Taxa Plataforma:  0.000493 (0.25% do repagamento)
-   Total Taxas Pagas: 0.009922
-   Repagamento Total Acumulado: 3.968625
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.951909
-   Novo Borrow Min:     0.792964
-   Novo Borrow Max Seguro: 1.189886
-
-[REESCALONAMENTO]:
-   Tentativas:               1
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      4.773710
-   aTokens Livres:    1.781764
-   Divida Total:      2.546505
-   Lucro Operacao:   0.104648
-   Reinvestimento:   0.452599
-   Lucro Total:      0.721299
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.104648
-   Operações sem Progresso:     0
-   Total Estagnadas:           7
-   Saúde da Posição:         1.39
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 028 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.280116 (11.00% da divida)
-   Taxa Plataforma:  0.000700 (0.25% do repagamento)
-   Total Taxas Pagas: 0.010622
-   Repagamento Total Acumulado: 4.248740
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.604065
-   Novo Borrow Max Seguro: 0.819562
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      4.878358
-   aTokens Livres:    2.089575
-   Divida Total:      2.266389
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.721299
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     0
-   Total Estagnadas:           7
-   Saúde da Posição:         1.59
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 029 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.249303 (11.00% da divida)
-   Taxa Plataforma:  0.000623 (0.25% do repagamento)
-   Total Taxas Pagas: 0.011245
-   Repagamento Total Acumulado: 4.498043
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.879742
-   Novo Borrow Min:     0.759778
-   Novo Borrow Max Seguro: 1.099678
-
-[REESCALONAMENTO]:
-   Tentativas:               1
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      5.256248
-   aTokens Livres:    1.887535
-   Divida Total:      2.896829
-   Lucro Operacao:   0.002624
-   Reinvestimento:   0.377890
-   Lucro Total:      0.723923
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.002624
-   Operações sem Progresso:     0
-   Total Estagnadas:           7
-   Saúde da Posição:         1.34
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 030 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.318651 (11.00% da divida)
-   Taxa Plataforma:  0.000797 (0.25% do repagamento)
-   Total Taxas Pagas: 0.012042
-   Repagamento Total Acumulado: 4.816694
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.566856
-   Novo Borrow Max Seguro: 0.731793
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      5.258871
-   aTokens Livres:    2.144555
-   Divida Total:      2.578177
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.723923
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     0
-   Total Estagnadas:           7
-   Saúde da Posição:         1.51
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 031 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.283600 (11.00% da divida)
-   Taxa Plataforma:  0.000709 (0.25% do repagamento)
-   Total Taxas Pagas: 0.012751
-   Repagamento Total Acumulado: 5.100294
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.743991
-   Novo Borrow Max Seguro: 1.050444
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      5.258871
-   aTokens Livres:    2.371435
-   Divida Total:      2.294578
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.723923
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     1
-   Total Estagnadas:           8
-   Saúde da Posição:         1.70
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 032 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.252404 (11.00% da divida)
-   Taxa Plataforma:  0.000631 (0.25% do repagamento)
-   Total Taxas Pagas: 0.013382
-   Repagamento Total Acumulado: 5.352697
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   1.067235
-   Novo Borrow Min:     0.901641
-   Novo Borrow Max Seguro: 1.334043
-
-[REESCALONAMENTO]:
-   Tentativas:               1
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      5.747391
-   aTokens Livres:    2.110386
-   Divida Total:      3.109409
-   Lucro Operacao:   0.073276
-   Reinvestimento:   0.488520
-   Lucro Total:      0.797199
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.073276
-   Operações sem Progresso:     0
-   Total Estagnadas:           8
-   Saúde da Posição:         1.37
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 033 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.342035 (11.00% da divida)
-   Taxa Plataforma:  0.000855 (0.25% do repagamento)
-   Total Taxas Pagas: 0.014237
-   Repagamento Total Acumulado: 5.694732
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.681268
-   Novo Borrow Max Seguro: 0.906852
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      5.820668
-   aTokens Livres:    2.442635
-   Divida Total:      2.767374
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.797199
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     0
-   Total Estagnadas:           8
-   Saúde da Posição:         1.56
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 034 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.304411 (11.00% da divida)
-   Taxa Plataforma:  0.000761 (0.25% do repagamento)
-   Total Taxas Pagas: 0.014998
-   Repagamento Total Acumulado: 5.999144
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.871402
-   Novo Borrow Max Seguro: 1.248887
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      5.820668
-   aTokens Livres:    2.686164
-   Divida Total:      2.462963
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.797199
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     1
-   Total Estagnadas:           9
-   Saúde da Posição:         1.75
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 035 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.270926 (11.00% da divida)
-   Taxa Plataforma:  0.000677 (0.25% do repagamento)
-   Total Taxas Pagas: 0.015675
-   Repagamento Total Acumulado: 6.270069
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   1.242638
-   Novo Borrow Min:     1.040621
-   Novo Borrow Max Seguro: 1.553298
-
-[REESCALONAMENTO]:
-   Tentativas:               1
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      6.403289
-   aTokens Livres:    2.374891
-   Divida Total:      3.434675
-   Lucro Operacao:   0.117488
-   Reinvestimento:   0.582621
-   Lucro Total:      0.914687
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.117488
+   Saldo Extra Acumulado: 89.235974
    Operações sem Progresso:     0
    Total Estagnadas:           9
-   Saúde da Posição:         1.38
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 036 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.377814 (11.00% da divida)
-   Taxa Plataforma:  0.000945 (0.25% do repagamento)
-   Total Taxas Pagas: 0.016620
-   Repagamento Total Acumulado: 6.647884
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.790301
-   Novo Borrow Max Seguro: 1.064661
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      6.520777
-   aTokens Livres:    2.771133
-   Divida Total:      3.056861
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.914687
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     0
-   Total Estagnadas:           9
-   Saúde da Posição:         1.58
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 037 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.336255 (11.00% da divida)
-   Taxa Plataforma:  0.000841 (0.25% do repagamento)
-   Total Taxas Pagas: 0.017460
-   Repagamento Total Acumulado: 6.984138
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     1.000324
-   Novo Borrow Max Seguro: 1.442475
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      6.520777
-   aTokens Livres:    3.040136
-   Divida Total:      2.720606
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      0.914687
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     1
-   Total Estagnadas:          10
-   Saúde da Posição:         1.77
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 038 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.299267 (11.00% da divida)
-   Taxa Plataforma:  0.000748 (0.25% do repagamento)
-   Total Taxas Pagas: 0.018209
-   Repagamento Total Acumulado: 7.283405
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   1.422984
-   Novo Borrow Min:     1.187245
-   Novo Borrow Max Seguro: 1.778730
-
-[REESCALONAMENTO]:
-   Tentativas:               1
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      7.194558
-   aTokens Livres:    2.680188
-   Divida Total:      3.844323
-   Lucro Operacao:   0.149921
-   Reinvestimento:   0.673781
-   Lucro Total:      1.064608
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.149921
-   Operações sem Progresso:     0
-   Total Estagnadas:          10
-   Saúde da Posição:         1.38
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 039 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.422876 (11.00% da divida)
-   Taxa Plataforma:  0.001057 (0.25% do repagamento)
-   Total Taxas Pagas: 0.019266
-   Repagamento Total Acumulado: 7.706281
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.743708
-   Novo Borrow Max Seguro: 1.223367
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      7.344479
-   aTokens Livres:    3.138425
-   Divida Total:      3.421448
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      1.064608
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     0
-   Total Estagnadas:          10
-   Saúde da Posição:         1.59
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 040 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.376359 (11.00% da divida)
-   Taxa Plataforma:  0.000941 (0.25% do repagamento)
-   Total Taxas Pagas: 0.020207
-   Repagamento Total Acumulado: 8.082640
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   1.316994
-   Novo Borrow Min:     0.884878
-   Novo Borrow Max Seguro: 1.646243
-
-[REESCALONAMENTO]:
-   Tentativas:               1
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      7.720357
-   aTokens Livres:    2.686619
-   Divida Total:      4.362083
-   Lucro Operacao:   0.187457
-   Reinvestimento:   0.375878
-   Lucro Total:      1.252065
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.187457
-   Operações sem Progresso:     0
-   Total Estagnadas:          10
-   Saúde da Posição:         1.31
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 041 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.479829 (11.00% da divida)
-   Taxa Plataforma:  0.001200 (0.25% do repagamento)
-   Total Taxas Pagas: 0.021406
-   Repagamento Total Acumulado: 8.562469
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.726342
-   Novo Borrow Max Seguro: 1.094309
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      7.907814
-   aTokens Livres:    3.220448
-   Divida Total:      3.882254
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      1.252065
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     0
-   Total Estagnadas:          10
-   Saúde da Posição:         1.51
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 042 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.427048 (11.00% da divida)
-   Taxa Plataforma:  0.001068 (0.25% do repagamento)
-   Total Taxas Pagas: 0.022474
-   Repagamento Total Acumulado: 8.989517
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   1.259310
-   Novo Borrow Min:     0.886525
-   Novo Borrow Max Seguro: 1.574138
-
-[REESCALONAMENTO]:
-   Tentativas:               1
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      8.240292
-   aTokens Livres:    2.820621
-   Divida Total:      4.714516
-   Lucro Operacao:   0.071669
-   Reinvestimento:   0.332478
-   Lucro Total:      1.323734
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.071669
-   Operações sem Progresso:     0
-   Total Estagnadas:          10
-   Saúde da Posição:         1.29
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 043 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.518597 (11.00% da divida)
-   Taxa Plataforma:  0.001296 (0.25% do repagamento)
-   Total Taxas Pagas: 0.023770
-   Repagamento Total Acumulado: 9.508114
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.720232
-   Novo Borrow Max Seguro: 1.020737
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      8.311961
-   aTokens Livres:    3.292833
-   Divida Total:      4.195919
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      1.323734
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     0
-   Total Estagnadas:          10
-   Saúde da Posição:         1.47
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 044 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.461551 (11.00% da divida)
-   Taxa Plataforma:  0.001154 (0.25% do repagamento)
-   Total Taxas Pagas: 0.024924
-   Repagamento Total Acumulado: 9.969665
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.893357
-   Novo Borrow Max Seguro: 1.539334
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      8.311961
-   aTokens Livres:    3.662074
-   Divida Total:      3.734368
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      1.323734
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     1
-   Total Estagnadas:          11
-   Saúde da Posição:         1.65
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 045 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.410780 (11.00% da divida)
-   Taxa Plataforma:  0.001027 (0.25% do repagamento)
-   Total Taxas Pagas: 0.025951
-   Repagamento Total Acumulado: 10.380445
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   1.600708
-   Novo Borrow Min:     1.047439
-   Novo Borrow Max Seguro: 2.000885
-
-[REESCALONAMENTO]:
-   Tentativas:               1
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      8.787521
-   aTokens Livres:    3.090580
-   Divida Total:      4.924295
-   Lucro Operacao:   0.302560
-   Reinvestimento:   0.475560
-   Lucro Total:      1.626294
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.302560
-   Operações sem Progresso:     0
-   Total Estagnadas:          11
-   Saúde da Posição:         1.32
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 046 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.541672 (11.00% da divida)
-   Taxa Plataforma:  0.001354 (0.25% do repagamento)
-   Total Taxas Pagas: 0.027305
-   Repagamento Total Acumulado: 10.922118
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.703994
-   Novo Borrow Max Seguro: 1.347860
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      9.090080
-   aTokens Livres:    3.765966
-   Divida Total:      4.382623
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      1.626294
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     0
-   Total Estagnadas:          11
-   Saúde da Posição:         1.53
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 047 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.482089 (11.00% da divida)
-   Taxa Plataforma:  0.001205 (0.25% do repagamento)
-   Total Taxas Pagas: 0.028511
-   Repagamento Total Acumulado: 11.404206
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   1.511626
-   Novo Borrow Min:     0.764543
-   Novo Borrow Max Seguro: 1.889533
-
-[REESCALONAMENTO]:
-   Tentativas:               1
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      9.295747
-   aTokens Livres:    3.106869
-   Divida Total:      5.412160
-   Lucro Operacao:   0.340577
-   Reinvestimento:   0.205666
-   Lucro Total:      1.966871
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.340577
-   Operações sem Progresso:     0
-   Total Estagnadas:          11
-   Saúde da Posição:         1.27
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 048 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.595338 (11.00% da divida)
-   Taxa Plataforma:  0.001488 (0.25% do repagamento)
-   Total Taxas Pagas: 0.029999
-   Repagamento Total Acumulado: 11.999544
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.724842
-   Novo Borrow Max Seguro: 1.236903
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      9.636324
-   aTokens Livres:    3.855601
-   Divida Total:      4.816823
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      1.966871
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.000000
-   Operações sem Progresso:     0
-   Total Estagnadas:          11
-   Saúde da Posição:         1.48
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 049 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.529851 (11.00% da divida)
-   Taxa Plataforma:  0.001325 (0.25% do repagamento)
-   Total Taxas Pagas: 0.031323
-   Repagamento Total Acumulado: 12.529394
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   1.465793
-   Novo Borrow Min:     0.791389
-   Novo Borrow Max Seguro: 1.832241
-
-[REESCALONAMENTO]:
-   Tentativas:               1
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:      9.823248
-   aTokens Livres:    3.256386
-   Divida Total:      5.752765
-   Lucro Operacao:   0.217844
-   Reinvestimento:   0.186924
-   Lucro Total:      2.184715
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.217844
-   Operações sem Progresso:     0
-   Total Estagnadas:          11
-   Saúde da Posição:         1.26
-   Saldo Wallet Restante: 0.000000
-================================================================================
-
-================================================================================
-OPERAÇÃO 050 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
-================================================================================
-[PARAMETROS] OPERACAO:
-   Repagamento:     0.632804 (11.00% da divida)
-   Taxa Plataforma:  0.001582 (0.25% do repagamento)
-   Total Taxas Pagas: 0.032905
-   Repagamento Total Acumulado: 13.162199
-
-[LIMITES] CALCULADOS:
-   Novo Borrow Final:   0.000000
-   Novo Borrow Min:     0.736957
-   Novo Borrow Max Seguro: 1.147235
-
-[REESCALONAMENTO]:
-   Tentativas:               6
-   Flags: {'reescalou_reinvestimento': False, 'reescalou_margem': False, 'reescalou_repagamento': False}
-
-[RESULTADOS] FINANCEIROS:
-   Supply Total:     10.000000
-   aTokens Livres:    3.904031
-   Divida Total:      5.119961
-   Lucro Operacao:   0.000000
-   Reinvestimento:   0.000000
-   Lucro Total:      2.184715
-
-[STATUS] E CONTROLE:
-   Saldo Extra Acumulado: 0.041091
-   Operações sem Progresso:     0
-   Total Estagnadas:          11
-   Saúde da Posição:         1.45
+   Saúde da Posição:         1.08
    Saldo Wallet Restante: 0.000000
 ================================================================================
 
@@ -1704,29 +548,29 @@ OPERAÇÃO 050 - ESTRATÉGIA COM GARANTIA DE LUCRO POSITIVO
 ================================================================================
 
 [OBJETIVOS] ALCANCADOS:
-   Supply Final Alcancado:    10.000000
-   Supply Final Desejado:     10.000000
-   Diferenca:                  0.000000
+   Supply Final Alcancado:  2000.932338
+   Supply Final Desejado:   2000.000000
+   Diferenca:                  0.932338
    Status: [OK] OBJETIVO ALCANCADO
 
 [RESULTADOS] FINANCEIROS:
-   Lucro Total Bruto:          2.184715
-   Total de Taxas Pagas:       0.032905
-   Lucro Liquido Final:        2.151810
-   Saude Final da Posicao:         1.45
+   Lucro Total Bruto:        545.238976
+   Total de Taxas Pagas:       3.923315
+   Lucro Liquido Final:      541.315662
+   Saude Final da Posicao:         1.08
 
 [ESTATISTICAS] DE OPERACAO:
-   Total de Operacoes:               50
-   Operacoes Estagnadas:             11
-   Taxa de Estagnacao:            22.0%
+   Total de Operacoes:               16
+   Operacoes Estagnadas:              9
+   Taxa de Estagnacao:            56.2%
 
 [GARANTIAS] DE LUCRO POSITIVO:
-   Operacoes com Lucro +:            50
+   Operacoes com Lucro +:            16
    Taxa de Lucro Positivo:       100.0%
-   Menor Lucro por Op:       0.00000000
+   Menor Lucro por Op:       0.00000800
 
 [EFICIENCIA] DO REESCALONAMENTO:
    Maior Tentativas (1 Op):           6
-   Total Tentativas:                200
-   Media por Operacao:             4.0
+   Total Tentativas:                 71
+   Media por Operacao:             4.4
 ================================================================================

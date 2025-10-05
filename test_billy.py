@@ -21,7 +21,7 @@ def rodar_testes():
     - Cenário B: Configuração agressiva (alto risco)
     - Cenário C: 5 combinações pseudo-aleatórias controladas
     """
-    print("🧪 EXECUTANDO TESTES AUTOMATIZADOS 🧪")
+    print("=== EXECUTANDO TESTES AUTOMATIZADOS ===")
     print("="*70)
     
     # Configurar seed para resultados reproduzíveis
@@ -48,7 +48,7 @@ def executar_cenario_a():
     
     Este cenário representa uma configuração conservadora e realista.
     """
-    print("\n📊 CENÁRIO A: Valores Médios")
+    print("\n[CENARIO A] Valores Medios")
     print("   Supply inicial: 1000, Borrow inicial: 600")
     print("   Supply final desejado: 1500, Saldo wallet: 200")
     print("   " + "-"*50)
@@ -88,7 +88,7 @@ def executar_cenario_b():
     Este cenário testa o comportamento em situações extremas
     e valida o reescalonamento quando há limitações de recursos.
     """
-    print("\n⚡ CENÁRIO B: Configuração Agressiva")
+    print("\n[CENARIO B] Configuracao Agressiva")
     print("   Supply inicial: 500, Borrow inicial: 300")
     print("   Supply final desejado: 2000, Saldo wallet: 50")
     print("   " + "-"*50)
@@ -129,7 +129,7 @@ def executar_cenario_c():
     Este cenário testa a capacidade do simulador de lidar
     com uma variedade de configurações diferentes.
     """
-    print("\n🎲 CENÁRIO C: 5 Combinações Pseudo-aleatórias")
+    print("\n[CENARIO C] 5 Combinacoes Pseudo-aleatorias")
     print("   " + "-"*50)
     
     resultados_c = []
@@ -141,7 +141,7 @@ def executar_cenario_c():
         supply_final = supply_inicial * random.uniform(1.2, 3.0)
         saldo_wallet = random.uniform(10, 500)
         
-        print(f"\n   🎯 Teste {i+1}:")
+        print(f"\n   [TESTE {i+1}]:")
         print(f"      Supply inicial: {supply_inicial:.1f}")
         print(f"      Borrow inicial: {borrow_inicial:.1f}")
         print(f"      Supply final: {supply_final:.1f}")
@@ -181,7 +181,7 @@ def print_resumo_final(cenario_a, cenario_b, cenario_c):
         cenario_c: Lista de estatísticas do cenário C
     """
     print("\n" + "="*70)
-    print("📋 RESUMO FINAL DOS TESTES")
+    print("RESUMO FINAL DOS TESTES")
     print("="*70)
     
     # Estatísticas consolidadas
@@ -205,14 +205,14 @@ def print_resumo_final(cenario_a, cenario_b, cenario_c):
         max(c['maior_tentativas_reescalonamento'] for c in cenario_c)
     )
     
-    print(f"📊 ESTATÍSTICAS CONSOLIDADAS:")
+    print(f"ESTATISTICAS CONSOLIDADAS:")
     print(f"   Total de operações testadas: {total_operacoes}")
     print(f"   Total de operações estagnadas: {total_estagnadas}")
     print(f"   Porcentagem de estagnação geral: {(total_estagnadas/total_operacoes*100):.1f}%")
     print(f"   Menor lucro por operação: {menor_lucro_geral:.8f}")
     print(f"   Maior tentativas de reescalonamento: {maior_tentativas}")
     
-    print("\n📈 DETALHES POR CENÁRIO:")
+    print("\nDETALHES POR CENARIO:")
     print(f"Cenário A: {cenario_a['total_operacoes']} ops, "
           f"{cenario_a['operacoes_estagnadas']} estagnadas, "
           f"saúde: {cenario_a['saude_final']:.2f}")
@@ -227,11 +227,11 @@ def print_resumo_final(cenario_a, cenario_b, cenario_c):
               f"saúde: {c['saude_final']:.2f}")
     
     print("\n" + "="*70)
-    print("🎉 TODOS OS TESTES PASSARAM COM SUCESSO! 🎉")
-    print("✅ Garantia de lucro positivo validada em todos os cenários")
-    print("✅ Todas as operações mantêm saúde > 1.01")
-    print("✅ Todos os objetivos foram alcançados")
-    print("✅ Reescalonamento funcionando corretamente")
+    print("TODOS OS TESTES PASSARAM COM SUCESSO!")
+    print("OK - Garantia de lucro positivo validada em todos os cenarios")
+    print("OK - Todas as operacoes mantem saude > 1.01")
+    print("OK - Todos os objetivos foram alcancados")
+    print("OK - Reescalonamento funcionando corretamente")
     print("="*70)
 
 
